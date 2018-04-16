@@ -1,7 +1,7 @@
 #Writing a CSV from a HTML- scraping data
 
 import csv
-from urllib.request import urlopen
+from urllib2 import urlopen
 from bs4 import Beautifulsoup as Bet
 
 html = urlopen("https://cricclubs.com/NTCA/teamSchedule.do?teamId=1636&clubId=343")
