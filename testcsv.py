@@ -19,6 +19,7 @@ row = 5
 col = 5 
 for row in range(len(x)):
     #print ("test")
+    
     sub = []
     for col in range(len(x)):
         sub.append(1)
@@ -28,3 +29,4 @@ for row in range(len(x)):
     
     
     ####testinng copy
+   
