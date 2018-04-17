@@ -24,3 +24,7 @@ for row in range(len(x)):
         sub.append(1)
         break
     print(sub)
+    
+    
+    
+    ####testinng
